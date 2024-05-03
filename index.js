@@ -218,7 +218,7 @@ module.exports = {
 			} }],
 		"@stylistic/linebreak-style": ["error", "unix"],
 		"@stylistic/lines-between-class-members": ["error", "always"],
-		"@stylistic/max-len": ["error", { "code": 80, "tabWidth": 4, "ignoreUrls": true, "ignoreComments": true, "ignoreTrailingComments": true, "ignoreStrings": true, "ignoreTemplateLiterals": true, "ignoreRegExpLiterals": true }],
+		"@stylistic/max-len": ["error", { "code": 120, "tabWidth": 4, "ignoreUrls": true, "ignoreComments": true, "ignoreTrailingComments": true, "ignoreStrings": true, "ignoreTemplateLiterals": true, "ignoreRegExpLiterals": true }],
 		"@stylistic/max-statements-per-line": ["error", { "max": 2 }],
 		"@stylistic/member-delimiter-style": ["error", {
 			"multiline": {
