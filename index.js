@@ -1,4 +1,7 @@
 module.exports = {
+	plugins: [
+		"@stylistic"
+	],
 	rules: {
 		// Possible Problems
 		"array-callback-return": "error",

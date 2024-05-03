@@ -1,6 +1,6 @@
 {
   "name": "@yolocat/eslint-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "My ESLint configuration",
   "main": "index.js",
   "keywords": [
@@ -12,7 +12,8 @@
     "eslintconfig"
   ],
   "peerDependencies": {
-    "eslint": ">=8"
+    "eslint": ">=8",
+	"@stylistic/eslint-config": ">=1.8.0"
   },
   "author": "yolocat-dev",
   "license": "ISC"
