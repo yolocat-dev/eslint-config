@@ -161,8 +161,6 @@ module.exports = {
 		"radix": "error",
 		"require-unicode-regexp": "error",
 		"require-yield": "error",
-		"sort-imports": "error",
-		"sort-keys": "error",
 		"strict": "error",
 		"symbol-description": "error",
 

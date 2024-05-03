@@ -1,6 +1,6 @@
 {
   "name": "@yolocat/eslint-config",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "My ESLint configuration",
   "main": "index.js",
   "keywords": [
